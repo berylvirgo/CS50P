@@ -80,5 +80,5 @@ For Reference Only
 - [Cookie Jar](/Week%208/Cookie%20Jar)
 - [CS50 Shirtificate](/Week%208/CS50%20Shirtificate)
 
-### [Final Project](/Final%20Project)
+### [Final Project](/Final%20Project) - [Final Project Link](https://cs50.harvard.edu/python/2022/project/)
 - [Final Project](/Final%20Project/Final%20Project)
