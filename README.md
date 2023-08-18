@@ -25,7 +25,7 @@ For Reference Only
 - [Indoor Voice](/Week%200/Indoor%20Voice)
 - [Playback Speed](/Week%200/Playback%20Speed)
 - [Making Faces](/Week%200/Making%20Faces)
-- [Einstein](//Week%200/Einstein)
+- [Einstein](/Week%200/Einstein)
 - [Tip Calculator](/Week%200/Tip%20Calculator)
 
 ### [Week 1](/Week%201/) - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
