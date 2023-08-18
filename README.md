@@ -79,3 +79,6 @@ For Reference Only
 - [Seasons of Love](/Week%208/Seasons%20of%20Love)
 - [Cookie Jar](/Week%208/Cookie%20Jar)
 - [CS50 Shirtificate](/Week%208/CS50%20Shirtificate)
+
+### [Final Project](/Final%20Project)
+- [Final Project](/Final%20Project/Final%20Project)
