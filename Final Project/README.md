@@ -8,7 +8,7 @@
 
 ## Description
 
-Welcome to **Password Manager**! This is my final project submission for CS50P. This project aims to solve the problem of [describe the problem your project solves].
+Welcome to **Password Manager**! This is my final project submission for CS50P.
 
 ### Features
 
