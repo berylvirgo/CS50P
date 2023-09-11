@@ -42,7 +42,7 @@ The Password Manager offers the following features:
 1. Clone the repository or download the files:
 
    ```bash
-   git clone https://github.com/berylvirgo/CS50P.git
+   git clone https://github.com/codenameberyl/CS50P.git
    ```
 
 2. Navigate to the project directory:
