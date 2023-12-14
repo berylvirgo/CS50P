@@ -2,10 +2,10 @@
 
 ## Achievement
 
-- [x] Testing my twttr
-- [x] Back to the Bank
-- [x] Re-requesting a Vanity Plate
-- [x] Refueling
+- ✅ Testing my twttr
+- ✅ Back to the Bank
+- ✅ Re-requesting a Vanity Plate
+- ✅ Refueling
 
 
 ## Description

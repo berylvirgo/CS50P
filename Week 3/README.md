@@ -2,10 +2,10 @@
 
 ## Achievement
 
-- [x] Fuel Gauge
-- [x] Felipe’s Taqueria
-- [x] Grocery List
-- [x] Outdated
+- ✅ Fuel Gauge
+- ✅ Felipe’s Taqueria
+- ✅ Grocery List
+- ✅ Outdated
 
 
 ## Description

@@ -2,11 +2,11 @@
 
 ## Achievement
 
-- [x] Deep Thought
-- [x] Home Federal Savings Bank
-- [x] File Extensions
-- [x] Math Interpreter
-- [x] Meal Time
+- ✅ Deep Thought
+- ✅ Home Federal Savings Bank
+- ✅ File Extensions
+- ✅ Math Interpreter
+- ✅ Meal Time
 
 
 ## Description

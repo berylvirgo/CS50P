@@ -2,11 +2,11 @@
 
 ## Achievement
 
-- [x] Indoor Voice
-- [x] Playback Speed
-- [x] Making Faces
-- [x] Einstein
-- [x] Tip Calculator
+- ✅ Indoor Voice
+- ✅ Playback Speed
+- ✅ Making Faces
+- ✅ Einstein
+- ✅ Tip Calculator
 
 
 ## Description

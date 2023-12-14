@@ -2,10 +2,10 @@
 
 ## Achievement
 
-- [x] Lines of Code
-- [x] Pizza Py
-- [x] Scourgify
-- [x] CS50 P-Shirt
+- ✅ Lines of Code
+- ✅ Pizza Py
+- ✅ Scourgify
+- ✅ CS50 P-Shirt
 
 
 ## Description

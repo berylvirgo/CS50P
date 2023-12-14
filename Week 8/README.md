@@ -2,9 +2,9 @@
 
 ## Achievement
 
-- [x] Seasons of Love
-- [x] Cookie Jar
-- [x] CS50 Shirtificate
+- ✅ Seasons of Love
+- ✅ Cookie Jar
+- ✅ CS50 Shirtificate
 
 
 ## Description

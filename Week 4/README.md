@@ -2,12 +2,12 @@
 
 ## Achievement
 
-- [x] Emojize
-- [x] Frank, Ian and Glen’s Letters
-- [x] Adieu, Adieu
-- [x] Guessing Game
-- [x] Little Professor
-- [x] Bitcoin Price Index
+- ✅ Emojize
+- ✅ Frank, Ian and Glen’s Letters
+- ✅ Adieu, Adieu
+- ✅ Guessing Game
+- ✅ Little Professor
+- ✅ Bitcoin Price Index
 
 
 ## Description
